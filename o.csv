@@ -1,0 +1,154 @@
+geo_accession,title,organ,sra
+GSE150149,RNA-seq of the brain of Nothobranchius furzeri at different time points and strains (smallRNA),Nothobranchius furzeri,SRP260813
+GSE125373,RNA-seq of the brain of Nothobranchius furzeri at different time points and strains,Nothobranchius furzeri,SRP180360
+GSE124638,Sequencing of Nothobranchius furzeri brain in two age groups,Nothobranchius furzeri,SRP175104
+GSE147740,DNA methylation analysis of human peripheral blood mononuclear cell collected in the AIRWAVE study,Homo sapiens,
+GSE124109,Graded regulation of cellular quiescence depth between proliferation and senescence by a lysosomal dimmer switch,Rattus norvegicus,SRP173916
+GSE132901,A murine aging cell atlas reveals cell identity and tissue-specific trajectories of aging,Mus musculus,SRP201778
+GSE94441,Analysis of gene expression in human LHCN-M2 cells with siControl or siZNF 148,Homo sapiens,
+GSE87947,RAMPAGE from LHCN-M2 (ENCSR002MPN),Homo sapiens,
+GSE78677,total RNA-seq from LHCN-M2 (ENCSR894WMQ),Homo sapiens,
+GSE78644,total RNA-seq from LHCN-M2 (ENCSR332DBS),Homo sapiens,
+GSE53116,"GENE TARGETS OF PALMITATE, OLEATE AND THEIR MIXTURE IN CULTURED LHCN-M2 MYOTUBES",Homo sapiens,
+GSE51336,Mouse regulatory DNA landscapes reveal global principles of cis-regulatory evolution,Mus musculus; Homo sapiens,
+GSE45957,Real-time PCR analysis of microRNA expression in differentiating human skeletal muscle cells,Homo sapiens,
+GSE29692,DNaseI Hypersensitivity by Digital DNaseI from ENCODE/University of Washington,Homo sapiens,SRP006947
+GSE26328,DNaseI Digital Genomic Footprinting from ENCODE/University of Washington [Human],Homo sapiens,SRP005135
+GSE15829,Aging of Human Fibroblast,Homo sapiens,
+GSE13872,Drosophila melanogaster transcriptional profiling over life span: Indy vs. Controls,Drosophila melanogaster,
+GSE8561,Mutant2,Saccharomyces cerevisiae,
+GSE8560,Mutant1,Saccharomyces cerevisiae,
+GSE8559,S288c Quiescent and Non-quiescent replicates,Saccharomyces cerevisiae,
+GSE8558,Proteinase K treatment of Q and NQ cells,Saccharomyces cerevisiae,
+GSE8542,BY4742 Quiescent and Non-quiescent replicates,Saccharomyces cerevisiae,
+GSM4820821,Brain_IV_26w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820820,Brain_III_26w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820819,Brain_II_26w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820818,Brain_I_26w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820817,Brain_IV_6w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820816,Brain_III_6w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820815,Brain_II_6w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4820814,Brain_I_6w_ART-seq,Nothobranchius furzeri,SRX925723
+GSM4524417,Brain_M5w_4,Nothobranchius furzeri,SRX829469
+GSM4524416,Brain_M5w_3,Nothobranchius furzeri,SRX829469
+GSM4524415,Brain_M5w_2,Nothobranchius furzeri,SRX829469
+GSM4524414,Brain_M5w_1,Nothobranchius furzeri,SRX829469
+GSM4524413,Brain_M39w_4,Nothobranchius furzeri,SRX829468
+GSM4524412,Brain_M39w_3,Nothobranchius furzeri,SRX829468
+GSM4524411,Brain_M39w_2,Nothobranchius furzeri,SRX829468
+GSM4524410,Brain_M39w_1,Nothobranchius furzeri,SRX829468
+GSM4524409,Brain_M12w_4,Nothobranchius furzeri,SRX829468
+GSM4524408,Brain_M12w_3,Nothobranchius furzeri,SRX829468
+GSM4524407,Brain_M12w_2,Nothobranchius furzeri,SRX829468
+GSM4524406,Brain_M12w_1,Nothobranchius furzeri,SRX829468
+GSM4524405,Brain_G5w_4,Nothobranchius furzeri,SRX829468
+GSM4524404,Brain_G5w_3,Nothobranchius furzeri,SRX829468
+GSM4524403,Brain_G5w_2,Nothobranchius furzeri,SRX829467
+GSM4524402,Brain_G5w_1,Nothobranchius furzeri,SRX829467
+GSM3572781,M5w_15,Nothobranchius furzeri,SRX526700
+GSM3572780,M5w_14,Nothobranchius furzeri,SRX526700
+GSM3572779,M5w_12,Nothobranchius furzeri,SRX526700
+GSM3572778,M5w_11,Nothobranchius furzeri,SRX526700
+GSM3572777,M39w_9,Nothobranchius furzeri,SRX526699
+GSM3572776,M39w_8,Nothobranchius furzeri,SRX526699
+GSM3572775,M39w_6,Nothobranchius furzeri,SRX526699
+GSM3572774,M39w_10,Nothobranchius furzeri,SRX526699
+GSM3572773,M12w_5,Nothobranchius furzeri,SRX526699
+GSM3572772,M12w_4,Nothobranchius furzeri,SRX526699
+GSM3572771,M12w_3,Nothobranchius furzeri,SRX526699
+GSM3572770,M12w_1,Nothobranchius furzeri,SRX526699
+GSM3572769,G5w_4,Nothobranchius furzeri,SRX526699
+GSM3572768,G5w_3,Nothobranchius furzeri,SRX526699
+GSM3572767,G5w_2,Nothobranchius furzeri,SRX526698
+GSM3572766,G5w_1,Nothobranchius furzeri,SRX526698
+GSM2475803,96hr siZNF148 DIFF media 3,Homo sapiens,
+GSM2475802,96hr siZNF148 DIFF media 2,Homo sapiens,
+GSM2475801,96hr siZNF148 DIFF media 1,Homo sapiens,
+GSM2475800,96hr siControl DIFF media 3,Homo sapiens,
+GSM2475799,96hr siControl DIFF media 2,Homo sapiens,
+GSM2475798,96hr siControl DIFF media 1,Homo sapiens,
+GSM2475797,48hr siZNF148 DIFF media 3,Homo sapiens,
+GSM2475796,48hr siZNF148 DIFF media 2,Homo sapiens,
+GSM2475795,48hr siZNF148 DIFF media 1,Homo sapiens,
+GSM2475794,48hr siControl DIFF media 3,Homo sapiens,
+GSM2475793,48hr siControl DIFF media 2,Homo sapiens,
+GSM2475792,48hr siControl DIFF media 1,Homo sapiens,
+GSM2475791,96hr siZNF148 Growth media 3,Homo sapiens,
+GSM2475790,96hr siZNF148 Growth media 2,Homo sapiens,
+GSM2475789,96hr siZNF148 Growth media 1,Homo sapiens,
+GSM2475788,96hr siControl Growth media 2,Homo sapiens,
+GSM2475787,96hr siControl Growth media 1,Homo sapiens,
+GSM2475786,48hr siZNF148 Growth media 3,Homo sapiens,
+GSM2475785,48hr siZNF148 Growth media 2,Homo sapiens,
+GSM2475784,48hr siZNF148 Growth media 1,Homo sapiens,
+GSM2475783,48hr siControl Growth media 3,Homo sapiens,
+GSM2475782,48hr siControl Growth media 2,Homo sapiens,
+GSM2475781,48hr siControl Growth media 1,Homo sapiens,
+GSM2475780,24hr siZNF148 Growth media 3,Homo sapiens,
+GSM2475779,24hr siZNF148 Growth media 2,Homo sapiens,
+GSM2475778,24hr siZNF148 Growth media 1,Homo sapiens,
+GSM2475777,24hr siControl Growth media 3,Homo sapiens,
+GSM2475776,24hr siControl Growth media 2,Homo sapiens,
+GSM2475775,24hr siControl Growth media 1,Homo sapiens,
+GSM2343077,RAMPAGE from LHCN-M2 (ENCLB592AEE),Homo sapiens,SRX224438
+GSM2072600,total RNA-seq from LHCN-M2 (ENCLB534MTC),Homo sapiens,SRX160366
+GSM2072533,total RNA-seq from LHCN-M2 (ENCLB921UIV),Homo sapiens,SRX160357
+GSM1282558,Control rep 3 vs. Mixture rep 2,Homo sapiens,
+GSM1282557,Mixtture rep 1 vs. Control rep 4,Homo sapiens,
+GSM1282556,Mixture rep 4 vs. Oleate rep 4,Homo sapiens,
+GSM1282555,Oleate rep 3 vs. Mixture rep 3,Homo sapiens,
+GSM1282554,Oleate rep 1 vs. Palmitate rep 4,Homo sapiens,
+GSM1282553,Palmitate rep 3 vs. Oleate rep2,Homo sapiens,
+GSM1282552,Control rep 2 vs. Palmitate rep 2,Homo sapiens,
+GSM1282551,Palmitate rep1 vs. Control rep1,Homo sapiens,
+GSM1120230,"LHCN-M2 myoblasts, 7 days differentiation - pool of total RNA extracted from three cell cultures.",Homo sapiens,
+GSM1120229,"LHCN-M2 myoblasts, 3 days differentiation - pool of total RNA extracted from three cell cultures.",Homo sapiens,
+GSM1120228,"LHCN-M2 myoblasts, proliferation - pool of total RNA extracted from three cell cultures.",Homo sapiens,
+GSM1024787,UW_DnaseSeq_LHCN-M2Rep1,Homo sapiens,SRX201297
+GSM1024786,UW_DnaseSeq_LHCN-M2Rep2,Homo sapiens,SRX201296
+GSM1024772,UW_DnaseSeq_LHCN-M2_DIFF_4dRep2,Homo sapiens,SRX201282
+GSM1024771,UW_DnaseSeq_LHCN-M2_DIFF_4dRep1,Homo sapiens,SRX201281
+GSM1014539,UW_DnaseDgf_LHCN-M2_DIFF_4d,Homo sapiens,SRX193611
+GSM1014524,UW_DnaseDgf_LHCN-M2,Homo sapiens,SRX193596
+GSM349101,wt 80 days rep 3,Drosophila melanogaster,
+GSM349100,wt 80 days rep 2,Drosophila melanogaster,
+GSM349099,wt 80 days rep 1,Drosophila melanogaster,
+GSM349098,wt 70 days rep 3,Drosophila melanogaster,
+GSM349097,wt 70 days rep 2,Drosophila melanogaster,
+GSM349096,wt 70 days rep 1,Drosophila melanogaster,
+GSM349095,wt 50 days rep 3,Drosophila melanogaster,
+GSM349094,wt 50 days rep 2,Drosophila melanogaster,
+GSM349093,wt 50 days rep 1,Drosophila melanogaster,
+GSM349092,wt 40 days rep 2,Drosophila melanogaster,
+GSM349091,wt 40 days rep 1,Drosophila melanogaster,
+GSM349090,wt 30 days rep 3,Drosophila melanogaster,
+GSM349089,wt 30 days rep 2,Drosophila melanogaster,
+GSM349088,wt 30 days rep 1,Drosophila melanogaster,
+GSM349087,wt 20 days rep 3,Drosophila melanogaster,
+GSM349086,wt 20 days rep 2,Drosophila melanogaster,
+GSM349085,wt 20 days rep 1,Drosophila melanogaster,
+GSM349084,wt 10 days rep 2,Drosophila melanogaster,
+GSM349083,wt 10 days rep 1,Drosophila melanogaster,
+GSM349082,wt 5 days rep 3,Drosophila melanogaster,
+GSM349081,wt 5 days rep 1,Drosophila melanogaster,
+GSM349080,indy 80 days rep 3,Drosophila melanogaster,
+GSM349079,indy 80 days rep 2,Drosophila melanogaster,
+GSM349078,indy 80 days rep 1,Drosophila melanogaster,
+GSM349077,indy 70 days rep 3,Drosophila melanogaster,
+GSM349076,indy 70 days rep 2,Drosophila melanogaster,
+GSM349075,indy 70 days rep 1,Drosophila melanogaster,
+GSM349074,indy 50 days rep 3,Drosophila melanogaster,
+GSM349073,indy 50 days rep 2,Drosophila melanogaster,
+GSM349072,indy 50 days rep 1,Drosophila melanogaster,
+GSM349071,indy 40 days rep 3,Drosophila melanogaster,
+GSM349070,indy 40 days rep 2,Drosophila melanogaster,
+GSM349069,indy 40 days rep 1,Drosophila melanogaster,
+GSM349068,indy 30 days rep 3,Drosophila melanogaster,
+GSM349067,indy 30 days rep 2,Drosophila melanogaster,
+GSM349066,indy 30 days rep 1,Drosophila melanogaster,
+GSM349065,indy 20 days rep 2,Drosophila melanogaster,
+GSM349064,indy 20 days rep 1,Drosophila melanogaster,
+GSM349063,indy 10 days rep 2,Drosophila melanogaster,
+GSM349062,indy 10 days rep 1,Drosophila melanogaster,
+GSM349061,indy 5 days rep 2,Drosophila melanogaster,
+GSM349060,indy 5 days rep 1,Drosophila melanogaster,
