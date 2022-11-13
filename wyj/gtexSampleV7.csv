@@ -1,4 +1,4 @@
-organ,tissue,description,donor,sample,SEX,AGE
+organ,tissue,description,donor,sample,SEX-1,AGE
 Adipose Tissue,adiposeSubcut,Adipose - Subcutaneous,GTEX-15CHQ,GTEX-15CHQ-0226-SM-6EU2S,1,69
 Adipose Tissue,adiposeSubcut,Adipose - Subcutaneous,GTEX-14BMV,GTEX-14BMV-0226-SM-5S2N2,1,53
 Adipose Tissue,adiposeSubcut,Adipose - Subcutaneous,GTEX-R55G,GTEX-R55G-2426-SM-2TC5I,2,43
